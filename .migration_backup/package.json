@@ -30,10 +30,10 @@
     "@nativescript/core": "^7.0.12",
     "@react-navigation/core": "^5.13.2",
     "@react-navigation/native": "^5.8.9",
-    "lit-element": "^2.4.0",
     "react": "^16.13.1",
     "react-nativescript": "^2.1.0",
-    "react-nativescript-navigation": "^2.0.1"
+    "react-nativescript-navigation": "^2.0.1",
+    "tns-core-modules": "^6.5.21"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
